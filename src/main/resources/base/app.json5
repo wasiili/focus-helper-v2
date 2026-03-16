@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.focushelper",
+    "vendor": "focus-helper",
+    "versionCode": 1,
+    "versionName": "1.0.0"
+  },
+  "productDefault": {
+    "compatibleSdkVersion": "10"
+  }
+}
