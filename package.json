@@ -1,0 +1,17 @@
+{
+  "name": "focus-helper",
+  "version": "1.0.0",
+  "description": "Focus Helper - 专注助手鸿蒙应用",
+  "main": "",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "hvigorw build",
+    "build:phone": "hvigorw build -p product=phone",
+    "clean": "hvigorw clean"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.16"
+  }
+}
